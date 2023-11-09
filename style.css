@@ -363,6 +363,45 @@ a{
   .end{
     flex-direction: column;
   }
+  .bike-1{
+    width: 110%;
+  }
+  .inside-bike1{
+    margin-left: 8px;
+  }
+  .play{
+    font-size: 1.5rem;
+    top: 45%;
+    right: 50%;
+  }
+  .para1{
+    font-size: 1.5rem;
+    font-weight: 300; 
+  }
+  .para2{
+    font-weight: 300;
+  }
+  .para4{
+    font-weight: 300;
+  }
+  .para6{
+    font-weight: 300;
+  }
+  .para8{
+    font-weight: 300;
+  }
+  .para3{
+    font-weight: 300;
+  }
+  .para5{
+    font-weight: 300;
+  }
+  .para7{
+    font-weight: 300;
+  }
+  .para9{
+    font-weight: 300;
+  }
 }
 
 @media(min-width:790px) and (max-width:998px){
